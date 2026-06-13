@@ -147,3 +147,22 @@
 .card p {
   color: #64748b;
 }
+
+.card-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.status {
+  display: inline-block;
+  margin-top: 18px;
+  padding: 8px 14px;
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.live {
+  background: #dcfce7;
+  color: #15803d;
+}
